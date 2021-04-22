@@ -14,7 +14,7 @@ public class FindAMatchingWord {
 			System.out.println(m.start());
 			
 			
-			count=count+1;
+			count++;
 		}
 		System.out.println(count);
 		
