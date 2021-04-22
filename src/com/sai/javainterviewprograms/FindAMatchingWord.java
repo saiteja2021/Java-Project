@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class FindAMatchingWord {
 
 	public static void main(String[] args) {
-		String s = "saitejasaitejasai";
+		String s = "saitejasaitejasaiteja";
 		Pattern p = Pattern.compile("sai");
 		Matcher m = p.matcher(s);
 		int count = 0;
