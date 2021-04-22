@@ -22,7 +22,7 @@ ArrayList<Employee> l2=new ArrayList<Employee>();
 l2.addAll(l);
 for(Employee l3:l2) {
 	System.out.println(l3.s);
-	System.out.println(l3.i);
+	//System.out.println(l3.i);
 }
 	}
 
