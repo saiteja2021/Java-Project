@@ -7,7 +7,7 @@ public class FindAMatchingWord {
 
 	public static void main(String[] args) {
 		String s = "saitejasaitejasaiteja";
-		Pattern p = Pattern.compile("teja");
+		Pattern p = Pattern.compile("kiran");
 		Matcher m = p.matcher(s);
 		int count = 0;
 		while (m.find()) {
