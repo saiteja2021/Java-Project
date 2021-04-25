@@ -1,3 +1,4 @@
+package com.sai.javainterviewprograms;
 
 public class LogicProgram {
 	static int count = 0;

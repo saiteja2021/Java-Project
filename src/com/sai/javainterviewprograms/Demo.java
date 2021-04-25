@@ -1,3 +1,4 @@
+package com.sai.javainterviewprograms;
 public class Demo{
 	static int i;
 	String s1="..........";
