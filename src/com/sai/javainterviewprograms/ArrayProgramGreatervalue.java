@@ -3,7 +3,7 @@ package com.sai.javainterviewprograms;
 public class ArrayProgramGreatervalue {
 static int greater=0;
 	public static void main(String[] args) {
-		int[]a = { 80, 20, 40, 10, 55 };
+		int[]a = { 80, 20, 40, 10, 56 };
 		int total = 0;
 		
 		for (int i = 0; i < a.length; i++) {
