@@ -8,9 +8,9 @@ import java.util.regex.Pattern;
 public class PatternFinding {
 
 	public static void main(String[] args) {
-String s="saitejasaitejabhaiayesaikepas";
+String s="saitejasaitejabhaiayesaikepas123";
 int count =0;
-Pattern p=Pattern.compile("sai");
+Pattern p=Pattern.compile("[a-z]");
 Matcher m=p.matcher(s);
 while(m.find()) {
 count++;	
