@@ -8,7 +8,7 @@ public class AccoliteDigital {
 		s = s.replaceAll("[0-9]", "");
 		s=s.replace('1', '2');
 		System.out.println(s);
-	//testing
+	
 	}
 
 }
