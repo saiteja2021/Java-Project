@@ -1,6 +1,6 @@
 package com.sai.javainterviewprograms;
 
-
+//abcd
 	class Base {
 	      
 	    // Static method in base class which will be hidden in subclass 
