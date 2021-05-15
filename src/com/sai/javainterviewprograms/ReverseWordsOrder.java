@@ -12,7 +12,6 @@ public class ReverseWordsOrder {
 			s3=s3+s2[i]+" ";
 		}
 		System.out.println(s3);
-
 	}
 	
 
